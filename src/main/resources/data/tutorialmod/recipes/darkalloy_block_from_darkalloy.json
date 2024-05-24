@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:darkalloy"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:darkalloy_block"
+  }
+}

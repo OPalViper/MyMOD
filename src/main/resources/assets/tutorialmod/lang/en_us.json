@@ -1,0 +1,12 @@
+{
+  "item.tutorialmod.sapphire": "Sapphire",
+  "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.darkalloy": "Dark Alloy",
+  "item.tutorialmod.metals": "Mysterious Metals",
+
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.tutorialmod.darkalloy_block": "Dark Alloy Block",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}
